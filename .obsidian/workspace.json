@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "79402f3fb57a0d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae182f2090b049a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38089767d6de0083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lectures/01-toolchain-and-modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-toolchain-and-modules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "060571ca0fd22bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b60034953090cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ed68c709b972b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "253fa07523d007c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1109bb93976f2728",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8caf47adf94fda8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9757609205e1250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d853082a5a62af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "plan/00-overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00-overview 的反向链接列表"
+            }
+          },
+          {
+            "id": "3129dcd98056f9b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "plan/00-overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "00-overview 的出链列表"
+            }
+          },
+          {
+            "id": "bdefd72108426fa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "855d365183bc910b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "fdcba731051c176a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "plan/00-overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00-overview 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "38089767d6de0083",
+  "lastOpenFiles": [
+    "lectures/00-index.md",
+    "homework/00-index.md",
+    "lectures/01-toolchain-and-modules.md",
+    "plan/00-overview.md",
+    "README.md",
+    "plan/05-stage5-runtime.md",
+    "plan/04-stage4-microservices.md",
+    "plan/03-stage3-concurrency.md",
+    "plan/02-stage2-backend.md",
+    "plan/01-stage1-foundation.md",
+    "lectures/14-performance.md",
+    "go-learn..md"
+  ]
+}
